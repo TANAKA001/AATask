@@ -1,0 +1,12 @@
+c:\users\tanaka\source\repos\ElevatorController\ElevatorController\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tanaka\source\repos\ElevatorController\ElevatorController\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tanaka\source\repos\ElevatorController\ElevatorController\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tanaka\source\repos\ElevatorController\ElevatorController\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\tanaka\source\repos\ElevatorController\ElevatorController\bin\roslyn\System.IO.Compression.dll
+c:\users\tanaka\source\repos\ElevatorController\ElevatorController\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\AmericanAirlinesTask\ElevatorController\ElevatorController\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\AmericanAirlinesTask\ElevatorController\ElevatorController\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\AmericanAirlinesTask\ElevatorController\ElevatorController\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\AmericanAirlinesTask\ElevatorController\ElevatorController\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitHub\AmericanAirlinesTask\ElevatorController\ElevatorController\bin\roslyn\System.IO.Compression.dll
+C:\GitHub\AmericanAirlinesTask\ElevatorController\ElevatorController\bin\roslyn\VBCSCompiler.exe
