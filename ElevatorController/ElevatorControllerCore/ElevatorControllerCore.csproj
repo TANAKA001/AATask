@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\MockElevator.cs" />
     <Compile Remove="Entityes\Elevator_A.cs" />
     <Compile Remove="Entityes\Elevator_B.cs" />
     <Compile Remove="Entityes\Elevator_C.cs" />

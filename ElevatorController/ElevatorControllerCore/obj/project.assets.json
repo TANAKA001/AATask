@@ -222,11 +222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\AmericanAirlinesTask\\ElevatorController\\ElevatorControllerCore\\ElevatorControllerCore.csproj",
+      "projectUniqueName": "C:\\GitHub\\AATask\\ElevatorController\\ElevatorControllerCore\\ElevatorControllerCore.csproj",
       "projectName": "ElevatorControllerCore",
-      "projectPath": "C:\\GitHub\\AmericanAirlinesTask\\ElevatorController\\ElevatorControllerCore\\ElevatorControllerCore.csproj",
+      "projectPath": "C:\\GitHub\\AATask\\ElevatorController\\ElevatorControllerCore\\ElevatorControllerCore.csproj",
       "packagesPath": "C:\\Users\\TANAKA\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\AmericanAirlinesTask\\ElevatorController\\ElevatorControllerCore\\obj\\",
+      "outputPath": "C:\\GitHub\\AATask\\ElevatorController\\ElevatorControllerCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
